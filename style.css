@@ -129,9 +129,75 @@ footer a {
 /* Responsividade */
 
 @media (max-width: 768px) {
+    body {
+        background-size: 250%;
+        background-position: center;
+        background-position-x: -300px;
+    }
 
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .pesquisa {
+        width: 70%;
+    }
+
+    .pesquisa input {
+        width: 100%;
+    }
+
+    .sobre {
+        width: 80%;
+    }
+
+    .sobre h2 {
+        font-size: 1.3rem;
+    }
 }
 
 @media (max-width: 480px) {
+    body {
+        background-size: 350%;
+        background-position: center;
+        background-position-x: -250px;
+    }
 
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    .pesquisa {
+        flex-wrap: wrap;
+        width: 85%;
+    }
+
+    .pesquisa input {
+        text-align: center;
+        width: 100%;
+    }
+
+    .pesquisa button {
+        width: 8rem;
+        border-radius: 2rem;
+        margin-top: 20px;
+        margin-left: 0;
+    }
+
+    .sobre {
+        width: 80%;
+    }
+
+    .sobre h2 {
+        font-size: 1.1rem;
+    }
+
+    footer {
+        font-size: 0.9rem;
+        padding: 0 1rem;
+    }
+
+    footer p {
+        text-align: center;
+    }
 }
