@@ -1,5 +1,5 @@
-**Projeto de Busca de Jogadores da NBA**
-# Criado a partir da Imersão Dev com Google Gemini da Alura. 
+# Projeto de Busca de Jogadores da NBA
+## Criado a partir da Imersão Dev com Google Gemini da Alura. 
 
 ## Descrição
 
