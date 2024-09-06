@@ -33,7 +33,7 @@ let dados = [
         nome: "Anthony Edwards",
         descricao: "Anthony Edwards é um ala-armador conhecido por seu atletismo e habilidade de pontuar. Ele foi a primeira escolha geral do draft da NBA e se tornou uma das principais promessas da liga.",
         link: "https://pt.wikipedia.org/wiki/Anthony_Edwards",
-        tags: "antman ant"
+        tags: "antman"
       },
       {
         nome: "Kobe Bryant",
