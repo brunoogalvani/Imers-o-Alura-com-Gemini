@@ -7,10 +7,9 @@ Este projeto web simples permite aos usuários pesquisar por jogadores da NBA. A
 
 ## Funcionalidades
 
-* Pesquisa por nome ou tag: A busca é realizada tanto no nome completo do jogador quanto nas tags associadas a ele, permitindo encontrar jogadores por apelidos, posições ou outras características.
+* Pesquisa por nome ou tag: A busca é realizada tanto no nome completo do jogador quanto nas tags associadas a ele, permitindo encontrar jogadores por apelidos.
 * Resultados dinâmicos: A lista de resultados é atualizada em tempo real conforme o usuário digita no campo de pesquisa.
 * Interface intuitiva: A interface é simples e fácil de usar, com um campo de pesquisa e um botão de pesquisa claramente identificados.
-* Acessibilidade: A aplicação utiliza elementos HTML semânticos e ARIA para garantir a acessibilidade para usuários com deficiência.
 * Design responsivo: A aplicação se adapta a diferentes tamanhos de tela, proporcionando uma boa experiência tanto em desktops quanto em dispositivos móveis.
 
 ## Tecnologias Utilizadas
@@ -24,5 +23,5 @@ Este projeto web simples permite aos usuários pesquisar por jogadores da NBA. A
 
 * index.html: Arquivo principal da página web.
 * style.css: Arquivo de estilo para a página.
-* dados.js: Arquivo contendo os dados dos jogadores (nome, descrição, tags e link).
+* dados.js: Arquivo contendo os dados dos jogadores (nome, descrição, link e tags).
 * app.js: Arquivo contendo a lógica JavaScript da aplicação.
