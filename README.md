@@ -28,5 +28,5 @@ Este projeto web simples permite aos usuários pesquisar por jogadores da NBA. A
 
 **Quer testar o projeto?**
 
-É só acessar o link abaixo!
+É só acessar o link: 
 https://jogadores-nba.vercel.app/
