@@ -25,3 +25,8 @@ Este projeto web simples permite aos usuários pesquisar por jogadores da NBA. A
 * style.css: Arquivo de estilo para a página.
 * dados.js: Arquivo contendo os dados dos jogadores (nome, descrição, link e tags).
 * app.js: Arquivo contendo a lógica JavaScript da aplicação.
+
+**Quer testar o projeto?**
+
+É só acessar o link abaixo!
+https://jogadores-nba.vercel.app/
