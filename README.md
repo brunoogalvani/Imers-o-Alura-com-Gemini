@@ -1,6 +1,8 @@
 # Projeto de Busca de Jogadores da NBA
 ## Criado a partir da Imersão Dev com Google Gemini da Alura
 
+![jogadores-nba](https://github.com/user-attachments/assets/07036646-46ee-43bb-9f65-f0dfd2fef16e)
+
 **Descrição**
 
 Este projeto web simples permite aos usuários pesquisar por jogadores da NBA. Ao digitar o nome de um jogador no campo de pesquisa e pressionar Enter ou clicar no botão de pesquisa, a aplicação busca por correspondências no nome ou nas tags associadas a cada jogador. Os resultados são exibidos em uma lista, com o nome do jogador, uma breve descrição e um link para mais informações.
